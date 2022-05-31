@@ -1,3 +1,3 @@
-1.Swimming
-2.Watching videos
-3.Playing Paradox's games
+* Swimming
+* Watching videos
+* Playing Paradox's games
